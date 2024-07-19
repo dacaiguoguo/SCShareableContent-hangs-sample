@@ -7,7 +7,7 @@
 
 import SwiftUI
 import ScreenCaptureKit
-
+// https://forums.developer.apple.com/forums/thread/713630
 // IMPORTANT: Make sure this app has screen recording permission
 import SwiftUI
 import ScreenCaptureKit
